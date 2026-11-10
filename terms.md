@@ -1,4 +1,6 @@
-# Atemtakt Terms of Use
+# Bagbeat Terms of Use
+
+Bagbeat is called Atemtakt on devices set to German.
 
 <!-- TODO before publishing: fill in the provider's name, postal address and e-mail below, and have these terms reviewed. -->
 
@@ -8,10 +10,10 @@
 [Full name], [Postal address], [E-mail address]
 
 ## What the app is for
-Atemtakt shows helpers the rhythm in which to squeeze and release a resuscitator bag, derived from a person's ventilator settings. It is an aid for keeping the rhythm.
+Bagbeat shows helpers the rhythm in which to squeeze and release a resuscitator bag, derived from a person's ventilator settings. It is an aid for keeping the rhythm.
 
 ## What the app is not
-- Atemtakt is not a certified medical device.
+- Bagbeat is not a certified medical device.
 - It does not replace training in bag ventilation, medical advice or emergency services. **In an emergency, call 112.**
 - The values in a profile must be copied exactly from the ventilator and checked by a doctor or respiratory therapist.
 - The resuscitator data comes from manufacturers' documents and may be incomplete or out of date. Check your bag's instructions.
