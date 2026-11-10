@@ -2,12 +2,12 @@
 
 Bagbeat is called Atemtakt on devices set to German.
 
-<!-- TODO before publishing: fill in the provider's name, postal address and e-mail below, and have these terms reviewed. -->
+<!-- TODO: have these terms reviewed. -->
 
-**Last updated:** 8 November 2026
+**Last updated:** 10 November 2026
 
 ## Provider
-[Full name], [Postal address], [E-mail address]
+Davut Alper Caliskan, Wilhelm-Rieger-Str. 7, 90455 Nürnberg, Germany, hi@davutcaliskan.com
 
 ## What the app is for
 Bagbeat shows helpers the rhythm in which to squeeze and release a resuscitator bag, derived from a person's ventilator settings. It is an aid for keeping the rhythm.

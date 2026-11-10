@@ -2,12 +2,10 @@
 
 Bagbeat is called Atemtakt on devices set to German.
 
-<!-- TODO before publishing: fill in the controller's name, postal address and e-mail below (GDPR Art. 13). -->
-
 **Last updated:** 10 November 2026
 
 ## Controller
-[Full name], [Postal address], [E-mail address]
+Davut Alper Caliskan, Wilhelm-Rieger-Str. 7, 90455 Nürnberg, Germany, hi@davutcaliskan.com
 
 ## In short
 Bagbeat collects no data. There is no account, no advertising, no analytics or tracking, and no third-party software. We run no servers and receive no data from the app.
